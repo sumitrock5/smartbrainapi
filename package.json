@@ -1,7 +1,6 @@
 {
   "name": "node",
   "version": "1.0.0",
-  "homepage": "https://github.com/sumitrock5/smartbrainapi.git",
   "main": "script.js",
   "scripts": {
     "start": "nodemon server.js"
